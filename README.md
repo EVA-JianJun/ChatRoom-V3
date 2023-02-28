@@ -1,6 +1,6 @@
 # ChatRoom V3
 
-**Python分布式交互框架！快速建立可靠的网络连接！**
+**Python分布式计算框架！**
 
 ![main][1]
 
@@ -10,7 +10,17 @@
 
 ## 简介
 
-这是 `ChatRoom` V2的新版本, 主要统一了一些架构, 增加了包分发管理, 和一系列的其他功能和修复.
+<div align=center>
+    <img src="https://raw.githubusercontent.com/EVA-JianJun/GitPigBed/master/blog_files/img/ChatRoom_architecture.png" width="100%" height="100%" >
+</div>
+<p align="center"><font size=2>ChatRoom架构图</font></p>
+
+`ChatRoom` 让多机器多进程的交互变得容易, 主要的功能有:
+
+* 丰富的交互功能
+* 运维日志监控
+* 包分发维护更新
+* 启动器
 
 ## 文档
 
