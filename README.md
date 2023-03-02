@@ -4,10 +4,6 @@
 
 ![main][1]
 
-## 安装
-
-    pip install -U ChatRoom-jianjun
-
 ## 简介
 
 <div align=center>
