@@ -38,4 +38,4 @@
 
 [ChatRoom V3 Wiki](https://github.com/EVA-JianJun/ChatRoom-V3/wiki)
 
-  [1]: https://raw.githubusercontent.com/EVA-JianJun/GitPigBed/master/blog_files/img/room_app_main.png
+  [1]: https://raw.githubusercontent.com/EVA-JianJun/GitPigBed/master/blog_files/img/PixPin_2024-02-02_10-28-39.png
